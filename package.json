@@ -1,6 +1,6 @@
 {
   "name": "wikiship",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module is heavily associated with convention.",
   "main": "wikiship.js",
   "bin": "wikiship.js",
